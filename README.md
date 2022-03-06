@@ -71,3 +71,4 @@ This phrase by Virgil was quoted in the book "Journey to the Center of the Earth
          alt="example badge"></a>
     <p>Do you want to talk with me ? Get in touch and we'll arrange a coffee!</p>
 </div>
+<kbd><img src="https://github.com/henrydevopr/henrydevopr/blob/output/snake.svg" /></kbd>
