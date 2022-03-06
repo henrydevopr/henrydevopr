@@ -71,4 +71,4 @@ Esta frase de Virgílio foi citada no livro "Viagem ao Centro da Terra" de Júli
          alt="example badge"></a>
     <p>Quer conversar comigo ? Entre em contato e a gente marca um café!</p>
 </div>
-<kbd><img src="https://github.com/henrydevopr/henrydevopr/blob/output/snake.svg" /></kbd>
+<div align="center"><img src="https://github.com/henrydevopr/henrydevopr/blob/output/snake.svg" /></div>
