@@ -5,7 +5,7 @@
 <br><br>
 <p>
 <h3><i>"Et quacumque viam dederit fortuna sequamur"</i></h3>
-This phrase by Virgil was quoted in the book "Journey to the Center of the Earth" by Jules Verne (By the way, my favorite author!). It represents the pursuit of fortune, in whatever way is possible for each of us. Despite referring to monetary goods, this sentence for me is more profound, because the fortune I seek is that of experiences and knowledge, and it was no surprise to me to find this in Programming! In it we experience something that is at least divine: The power to create!
+This phrase by Virgílio was quoted in the book "Journey to the Center of the Earth" by Jules Verne (By the way, my favorite author!). It represents the pursuit of fortune, in whatever way is possible for each of us. Despite referring to monetary goods, this sentence for me is more profound, because the fortune I seek is that of experiences and knowledge, and it was no surprise to me to find this in Programming! In it we experience something that is at least divine: The power to create!
 </p>
 <br><br>
 <div align="center">
